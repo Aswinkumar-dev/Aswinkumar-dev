@@ -6,7 +6,7 @@
 - Previously worked at Codemagen as a Backend Developer
 - ⚡ Fun fact: I break things locally so they don't break in production.
 - Social Presence
-<br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aswin477) <br/> 
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aswin477) 
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
@@ -14,9 +14,9 @@
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> 
-<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/>
+<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/>  <img width="50" height="50" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Docker-Logo-social-media-those-icons-flat-those-icons.png" alt="external-Docker-Logo-social-media-those-icons-flat-those-icons"/>
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/aswinkumar477?theme=dark&font=Skranji)](https://leetcode.com/u/aswinkumar477/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/aswinkumar477?theme=dark&font=Siemreap)](https://leetcode.com/u/aswinkumar477/)
 
-[![Aswin's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aswinkumar-dev&bg_color=464445&color=ede8ed&line=00ff7b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aswin's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aswinkumar-dev&bg_color=000000&color=ede8ed&line=00ff7b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
