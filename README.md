@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow <br/>
 - 💻 Previously worked at Codemagen as a Backend Developer </br>
 - ⚡ Fun fact: I break things locally so they don't break in production. </br>
-- Social Presence
+- 🌐 Social Presence
 <br/><br/>
 <a href="https://www.linkedin.com/in/aswin477/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
