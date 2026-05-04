@@ -12,12 +12,28 @@
 
 ### I code in
 <p align="left">
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/><img width="50" height="50" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/><img width="50" height="50" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50" style="margin-right:10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" width="50" style="margin-right:10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="50" style="margin-right:10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="50" style="margin-right:10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="50" style="margin-right:10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="50" style="margin-right:10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="50" style="margin-right:10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="50" style="margin-right:10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="50" style="margin-right:10px;"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png" width="50" style="margin-right:10px;" alt="postgresql"/>
+  <img src="https://img.icons8.com/color/48/redis--v1.png" width="50" style="margin-right:10px;" alt="redis"/>
 </p>
 
 ### IDE and Tools I Use
 <p align="left">
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/><img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="postman"/><img width="50" height="50" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Docker-Logo-social-media-those-icons-flat-those-icons.png" alt="docker"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" style="margin-right:10px;"/>
+  <img src="https://img.icons8.com/color/48/intellij-idea.png" width="50" style="margin-right:10px;" alt="intellij"/>
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png" width="50" style="margin-right:10px;"/>
+  <img src="https://img.icons8.com/officel/480/null/java-eclipse.png" width="50" style="margin-right:10px;"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="50" style="margin-right:10px;" alt="postman"/>
+  <img src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Docker-Logo-social-media-those-icons-flat-those-icons.png" width="50" style="margin-right:10px;" alt="docker"/>
+  <img src="https://img.icons8.com/color/50/000000/git.png" width="50" style="margin-right:10px;"/>
 </p>
 
 <!--
